@@ -9,5 +9,21 @@ body {
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+    monospace;  
+}
+
+.container {
+  max-width: 50%;
+  height: 100%;
+  border: 1px solid rgb(0, 229, 255);
+  align-content: center;
+  margin: auto;
+  
+}
+
+.title {
+  background-color: powderblue;
+}
+.list {
+  cursor: pointer;
 }
